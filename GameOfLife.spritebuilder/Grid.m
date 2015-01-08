@@ -21,7 +21,7 @@ static const int GRID_COLUMNS = 10;
     float _cellHeight;
 }
 
-/*
+
 -(void) onEnter{
     [super onEnter];
     //[self setupGrid];
@@ -64,6 +64,6 @@ static const int GRID_COLUMNS = 10;
         
         y += _cellHeight;
     }
-}*/
+}
 
 @end
