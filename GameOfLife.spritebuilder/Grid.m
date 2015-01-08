@@ -22,7 +22,7 @@ static const int GRID_COLUMNS = 10;
 }
 
 -(void) onEnter{
-    [self onEnter];
+    [super onEnter];
     [self setupGrid];
     
     //accept touched on the grid
