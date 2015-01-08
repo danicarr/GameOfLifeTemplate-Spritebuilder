@@ -24,7 +24,7 @@ static const int GRID_COLUMNS = 10;
 
 -(void) onEnter{
     [super onEnter];
-    //[self setupGrid];
+    [self setupGrid];
     
     //accept touched on the grid
     self.userInteractionEnabled = YES;
