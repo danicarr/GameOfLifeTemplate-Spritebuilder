@@ -411,7 +411,7 @@
 												<key>value</key>
 												<array>
 													<string>Population
-     0</string>
+</string>
 													<false/>
 												</array>
 											</dict>
@@ -593,8 +593,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>70</real>
-													<real>35</real>
+													<real>45.166614532470703</real>
+													<real>23.273122787475586</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -631,7 +631,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string></string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -767,6 +767,8 @@
 												</array>
 											</dict>
 										</array>
+										<key>selected</key>
+										<true/>
 									</dict>
 									<dict>
 										<key>UUID</key>
@@ -800,8 +802,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>44.428272247314453</real>
-													<real>32.962909698486328</real>
+													<real>43.048641204833984</real>
+													<real>33.652725219726562</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -839,7 +841,7 @@
 												<key>value</key>
 												<array>
 													<string>Generation
-     0</string>
+     </string>
 													<false/>
 												</array>
 											</dict>
@@ -1021,8 +1023,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>0.0</real>
-													<real>0.0</real>
+													<real>44.838058471679688</real>
+													<real>53.115856170654297</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -1059,7 +1061,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string></string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -1195,8 +1197,6 @@
 												</array>
 											</dict>
 										</array>
-										<key>selected</key>
-										<true/>
 									</dict>
 								</array>
 								<key>customClass</key>
