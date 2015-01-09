@@ -127,7 +127,12 @@ static const int GRID_COLUMNS = 10;
                         Creature *neighbor = _gridArray[x][y];
                         if (neighbor.isAlive){
                             currentCreature.livingNeighbors += 1;
-                        }}}}}}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 
@@ -139,6 +144,8 @@ static const int GRID_COLUMNS = 10;
     return isIndexValid;
 }
 
+    
+    
 -(void) updateCreatures{
     
     int numAlive=0;
